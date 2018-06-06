@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		29239DA21F36D16400EC8B3D /* cat wikipedia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29BBD4391F36C477007479EB /* cat wikipedia.jpg */; };
 		29BBD40C1F36C355007479EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29BBD40B1F36C355007479EB /* AppDelegate.swift */; };
 		29BBD40E1F36C355007479EB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29BBD40D1F36C355007479EB /* ViewController.swift */; };
 		29BBD4111F36C355007479EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29BBD40F1F36C355007479EB /* Main.storyboard */; };
@@ -47,6 +48,7 @@
 		29BBD4271F36C355007479EB /* Cat Years AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat Years AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		29BBD42B1F36C355007479EB /* Cat_Years_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_Years_AppUITests.swift; sourceTree = "<group>"; };
 		29BBD42D1F36C355007479EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29BBD4391F36C477007479EB /* cat wikipedia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cat wikipedia.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				29BBD4121F36C355007479EB /* Assets.xcassets */,
 				29BBD4141F36C355007479EB /* LaunchScreen.storyboard */,
 				29BBD4171F36C355007479EB /* Info.plist */,
+				29BBD4391F36C477007479EB /* cat wikipedia.jpg */,
 			);
 			path = "Cat Years App";
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				29BBD4161F36C355007479EB /* LaunchScreen.storyboard in Resources */,
 				29BBD4131F36C355007479EB /* Assets.xcassets in Resources */,
 				29BBD4111F36C355007479EB /* Main.storyboard in Resources */,
+				29239DA21F36D16400EC8B3D /* cat wikipedia.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
